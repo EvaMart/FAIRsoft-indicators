@@ -1,0 +1,1 @@
+{"@context":"https://raw.githubusercontent.com/codemeta/codemeta/master/codemeta.jsonld","@type":"SoftwareApplication","name":"test","description":"this is a test file to create a codemeta file"}
