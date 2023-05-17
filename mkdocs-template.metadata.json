@@ -1,0 +1,1 @@
+{"@context":"https://raw.githubusercontent.com/codemeta/codemeta/master/codemeta.jsonld","@type":"SoftwareApplication","name":"mkdocs-template","description":{"term":"Description of the FAIRsoft indicators, measured by the OpenEBench Software Observatory (https://openebench.bsc.es/).","id":0}}
