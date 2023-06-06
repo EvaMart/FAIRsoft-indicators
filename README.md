@@ -3,8 +3,9 @@
 
 This repository contains the documentation for the FAIRsoft indicators, measured by [OpenEBench Software Observatory](https://openebench.bsc.es/observatory). 
 
+## Weights 
 
-## Contribution guidelines 
+The weight assigned to each indicator can be found [here](https://docs.google.com/document/d/1OcGxtX-LqIoePSeEE-S1v3kgKXe6wiCgo_VMTF6idhM/edit#heading=h.43jskndlksbx)
 
 # Credits 
 
