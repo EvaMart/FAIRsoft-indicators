@@ -76,7 +76,7 @@ docs_dir: docs/
 # |                                                                                                        |
 # +--------------------------------------------------------------------------------------------------------+
 repo_name: evamart/mkdocs-template
-repo_url: https://github.com/evamart/mkdocs-template
+repo_url: https://github.com/evamart/FAIRsoft-indicators
 #edit_uri: tree/master/docs # Uncomment to define a different URI/URL for the "edit" option
 
 # +--------------------------------------------------------------------------------------------------------+
