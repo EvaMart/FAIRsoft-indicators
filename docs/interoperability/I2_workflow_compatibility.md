@@ -4,7 +4,7 @@
 
 - ### I2.1 Availability of API /library versions.
 
-  Whether the software has API /library versions to be included in users' pipelines 
+    Whether the software has API /library versions to be included in users' pipelines 
   
     | Why should we measure it?  | How do we measure it? | Types it applies to  |
     |----------------------------|-----------------------|----------------------|
